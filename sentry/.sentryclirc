@@ -1,5 +1,0 @@
-[auth]
-token=3e2d15a4a5284869a35a0c13e0317ca90e940530209141f59815426c2dcaaaa0
-[defaults]
-project=sentry-example
-org=bitcs-s6
